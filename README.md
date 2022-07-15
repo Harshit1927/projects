@@ -7,6 +7,7 @@
   
   Note:
     1. Make sure to install selenium library, refer to Python docs on how to install libraries in python using pip.
+ 
     2. While running this code make sure selenium webdriver from firefox( geckodriver , download from here: https://pypi.org/project/selenium/ ) is in the path or explicitly provide the path to tha driver in line 40 of the code.
 
 # Print Calendar:
